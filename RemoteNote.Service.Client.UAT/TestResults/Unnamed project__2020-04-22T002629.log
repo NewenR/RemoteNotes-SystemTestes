@@ -1,0 +1,17 @@
+﻿2020-04-22T00:26:29.8777895+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-22T00:26:29.8779421+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.22 in Framework netcore31 in x64 mode execution started
+2020-04-22T00:26:29.8779441+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-22T00:26:29.9000006+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.dll
+2020-04-22T00:26:29.9007160+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\TestResults" (default)
+2020-04-22T00:26:29.9008185+03:00;VSTestExecutionThread;Info;Profile: 
+2020-04-22T00:26:29.9366583+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\TestResults\Unnamed project__2020-04-22T002629.log
+2020-04-22T00:26:29.9434727+03:00;Thread#14;Info;Checking activation
+2020-04-22T00:26:30.6634845+03:00;Thread#14;Error;No tests executed (activation needed)
+2020-04-22T00:26:30.6782802+03:00:Total: 0
+2020-04-22T00:26:30.6806815+03:00:Succeeded: 0
+2020-04-22T00:26:30.6810971+03:00:Ignored: 0
+2020-04-22T00:26:30.6813520+03:00:Pending: 0
+2020-04-22T00:26:30.6820508+03:00:Skipped: 0
+2020-04-22T00:26:30.6824214+03:00:Failed: 0
+2020-04-22T00:26:30.6880316+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

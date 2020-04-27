@@ -1,0 +1,42 @@
+﻿2020-04-22T00:35:17.7146956+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-22T00:35:17.7148919+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.22 in Framework netcore31 in x64 mode execution started
+2020-04-22T00:35:17.7148948+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-22T00:35:17.7388085+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.dll
+2020-04-22T00:35:17.7393902+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\TestResults" (default)
+2020-04-22T00:35:17.7394600+03:00;VSTestExecutionThread;Info;Profile: 
+2020-04-22T00:35:17.7801278+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\TestResults\Unnamed project__2020-04-22T003517.log
+2020-04-22T00:35:17.7844662+03:00;Thread#12;Info;Checking activation
+2020-04-22T00:35:17.8618325+03:00;Thread#12;Info;Activation check completed
+2020-04-22T00:35:17.8619106+03:00;Thread#12;Info;Starting test run
+2020-04-22T00:35:17.8674757+03:00;Thread#12;Info;Discovering target: Default
+2020-04-22T00:35:17.8676264+03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.dll
+2020-04-22T00:35:17.9405116+03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.dll
+2020-04-22T00:35:17.9415550+03:00:Test Suite Dump
+2020-04-22T00:35:17.9432457+03:00:#0: Unnamed project/ - 
+2020-04-22T00:35:17.9432804+03:00:#1: Default - 
+2020-04-22T00:35:17.9432823+03:00:#2: NUnitTestProject1 - 
+2020-04-22T00:35:17.9433243+03:00:End: Test Suite Dump
+2020-04-22T00:35:17.9582405+03:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-22T00:35:17.9600394+03:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-22T00:35:17.9600535+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-22T00:35:17.9601573+03:00:Thread#0:Scheduler: No more tests for thread
+2020-04-22T00:35:17.9668216+03:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-22T00:35:17.9668414+03:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-22T00:35:17.9668436+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-22T00:35:17.9684913+03:00;Thread#12;Info;test run finished
+2020-04-22T00:35:17.9686063+03:00;Thread#12;Info;publishing test results
+2020-04-22T00:35:17.9687750+03:00;Thread#12;Info;Not publishing results.
+2020-04-22T00:35:17.9688424+03:00;Thread#12;Info;test results published
+2020-04-22T00:35:17.9689006+03:00;Thread#12;Info;generating reports
+2020-04-22T00:35:18.0704088+03:00;Thread#12;Info;Starting external report generation process
+2020-04-22T00:35:19.0855984+03:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-04-22T00:35:19.0862787+03:00;Thread#12;Error;External program returned exit code '-2'
+2020-04-22T00:35:19.0865010+03:00;Thread#12;Info;Failed generating reports
+2020-04-22T00:35:19.0923956+03:00:Total: 0
+2020-04-22T00:35:19.0941647+03:00:Succeeded: 0
+2020-04-22T00:35:19.0944563+03:00:Ignored: 0
+2020-04-22T00:35:19.0947134+03:00:Pending: 0
+2020-04-22T00:35:19.0954288+03:00:Skipped: 0
+2020-04-22T00:35:19.0957184+03:00:Failed: 0
+2020-04-22T00:35:19.1015284+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
