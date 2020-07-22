@@ -1,0 +1,960 @@
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Server.exe
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Activities.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Contract.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.DomainEvents.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Rules.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Tests.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.UseCases.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Contract.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Core.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Tests.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Server.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Tests.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Tests.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Server.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Activities.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Contract.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.DomainEvents.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Rules.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.UseCases.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Contract.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Core.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Server.exe
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Activities.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.DomainEvents.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Rules.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Tests.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.UseCases.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Core.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Tests.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Server.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Activities.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.DomainEvents.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Rules.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.Tests.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.BLL.UseCases.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Core.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.Tests.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.DAL.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Server.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.deps.json
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.json
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.runtimeconfig.dev.json
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Cucumber.Messages.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Utf8Json.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\obj\Debug\netcoreapp3.1\RemoteNote.Service.Client.UAT.genruntimeconfig.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNote.Service.Client.UAT\bin\Debug\netcoreapp3.1\Autofac.dll

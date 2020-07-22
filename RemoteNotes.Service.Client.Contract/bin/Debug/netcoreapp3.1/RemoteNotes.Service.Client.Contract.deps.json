@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RemoteNotes.Service.Client.Contract/1.0.0": {
+        "dependencies": {
+          "RemoteNotes.Service.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Service.Client.Contract.dll": {}
+        }
+      },
+      "RemoteNotes.Service.Domain/1.0.0": {
+        "runtime": {
+          "RemoteNotes.Service.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoteNotes.Service.Client.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Service.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

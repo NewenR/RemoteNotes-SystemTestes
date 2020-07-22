@@ -1,0 +1,98 @@
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes new try) — копия (3)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Diploma\Try2\PilotServer-dev\PilotServer-dev(with uat testes almost success)\PilotServer-dev\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\Service.Client.UAT\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\source\repos\RemoteNote-Specflow\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.deps.json
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Client.Contract.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\bin\Debug\netcoreapp3.1\RemoteNotes.Service.Domain.pdb
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csprojAssemblyReference.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CoreCompileInputs.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfoInputs.cache
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.AssemblyInfo.cs
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.csproj.CopyComplete
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.dll
+C:\Users\Newen_R\Desktop\RemoteNotes-SystemTestes-master\RemoteNotes-SystemTestes-master\RemoteNotes.Service.Client\obj\Debug\netcoreapp3.1\RemoteNotes.Service.Client.pdb
